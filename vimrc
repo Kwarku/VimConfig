@@ -155,7 +155,6 @@ set t_Co=256
 :set noantialias
 
 " Color scheme
-colorscheme railscasts
 set background=dark
 set encoding=utf-8
 
